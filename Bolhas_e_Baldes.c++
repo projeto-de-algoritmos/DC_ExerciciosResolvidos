@@ -36,7 +36,3 @@ int main (int argc, char **argv) {
  
     return 0;
 }
-
-
-// URI 1088
-// https://www.beecrowd.com.br/judge/pt/problems/view/1088
